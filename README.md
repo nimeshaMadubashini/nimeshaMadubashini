@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nimesha Madhubhashini</h1>
+
 # 💫About Me :
+
 🌱 I’m currently learning  Software Engineering
+
 💬 Ask me about Java, SQL, CSS
+
 📫 How to reach me nimeshamadubashini040@gmail.com
+
 🌱 I'm a student of IJSE.
 
 ## 🌐Socials
