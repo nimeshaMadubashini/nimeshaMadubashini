@@ -1,4 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Nimesha Madhubhashini</h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=;Always+learning+new+things"></a>
 </p>
@@ -16,7 +18,8 @@
 
 📫 How to reach me nimeshamadubashini040@gmail.com
 
-🌱 I'm a student of IJSE.
+🌱 I'm a student of [IJSE](https://www.ijse.lk/).
+ 
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nimesha-madhubhashini-2b0741264) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18200401) 
